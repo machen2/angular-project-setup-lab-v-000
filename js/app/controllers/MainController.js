@@ -1,5 +1,6 @@
 function MainController($scope) {
-  $scope.name = 'PUT YOUR NAME HERE!';
+  $scope.firstName = 'Jane';
+  $scope.lastName = 'Doe';
 }
 
 angular
